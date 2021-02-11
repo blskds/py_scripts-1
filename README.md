@@ -29,7 +29,7 @@ python脚本集，支持selenium，基于[SeleniumBase](https://github.com/selen
 ## 二、设置Secret参数
 
 根据需要添加对应任务的参数，参数说明请直接点上面的链接进行查看。
-![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
+![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)bb
 
 ## 三、启用Action
 
